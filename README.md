@@ -19,7 +19,6 @@ DLNA(数字生活网络联盟)服务端(如电视，机顶盒)通常会实现两
 * Neptune C++ Runtime: https://github.com/plutinosoft/Neptune
 * Compile With Neptune-1.2.3 and Platinum-1.3.0
 * Build the native code with Android NDK and cmake
-* App下载体验：https://github.com/huzongyao/PlatinumMedia/releases
 
 #### Libraries
 * Glide: https://github.com/bumptech/glide
